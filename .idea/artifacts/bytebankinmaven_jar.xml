@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bytebankinmaven:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bytebankinmaven_jar</output-path>
+    <root id="archive" name="bytebankinmaven.jar">
+      <element id="module-output" name="bytebankinmaven" />
+    </root>
+  </artifact>
+</component>

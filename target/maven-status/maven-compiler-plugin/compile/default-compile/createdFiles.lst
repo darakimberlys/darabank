@@ -1,0 +1,12 @@
+banco\modelao\Tributavel.class
+banco\modelao\Conta.class
+banco\modelao\SaldoInsufienteException.class
+banco\testes\TesteTributaveis.class
+banco\modelao\CalculadoraDeImposto.class
+banco\modelao\ContaPoupanca.class
+banco\testes\TesteContas.class
+banco\modelao\Cliente.class
+banco\modelao\ContaCorrente.class
+banco\testes\TesteSaca.class
+banco\especial\ContaEspecial.class
+banco\modelao\SeguroDeVida.class
